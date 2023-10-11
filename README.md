@@ -12,8 +12,8 @@ Project -> Maven
 Language -> Java
 Spring Boot -> 3.0.11
 Group -> br.com.ruben
-Artifact -> todoist
-Name -> todoist
+Artifact -> todolist
+Name -> todolist
 Description -> Gerenciador de Tarefas
 Packaging -> Jar // war -> docker
 Java -> 17
